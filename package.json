@@ -1,0 +1,36 @@
+{
+  "name": "bioheal",
+  "version": "1.0.0",
+  "description": "BioHeal WebApp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevArcanum/BioHeal.git"
+  },
+  "keywords": [
+    "WebApp"
+  ],
+  "author": "Dev Arcanum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevArcanum/BioHeal/issues"
+  },
+  "homepage": "https://github.com/DevArcanum/BioHeal#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
